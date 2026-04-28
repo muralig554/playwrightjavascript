@@ -1,0 +1,8 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="7.626814999999999">
+<testsuite name="Reports.spec.js" timestamp="2026-03-20T21:49:42.832Z" hostname="chromium" tests="2" failures="0" skipped="0" time="5.628" errors="0">
+<testcase name="report1" classname="Reports.spec.js" time="1.649">
+</testcase>
+<testcase name="report2" classname="Reports.spec.js" time="3.979">
+</testcase>
+</testsuite>
+</testsuites>
